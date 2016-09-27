@@ -1,2 +1,2 @@
 # AirCP
-Auxiliary Information Regularized CANDECOMP/PARAFAC Tensor Completion
+Auxiliary Information Regularized CANDECOMP/PARAFAC Tensor Completion (Matlab Verison)
