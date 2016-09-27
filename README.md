@@ -1,6 +1,6 @@
 AirCP
 =====
-AirCP, standing for _A_uxiliary _I_nformation _R_egularized _CP_ tensor completion, is a system for performing CP tensor completion with  regularized trace of the auxiliary information. The Alternating Direction Method of Multipliers (ADMM) is applied to solve the whole optimization problem. 
+AirCP, standing for **A**uxiliary **I**nformation **R**egularized **CP** tensor completion, is a system for performing CP tensor completion with  regularized trace of the auxiliary information. The Alternating Direction Method of Multipliers (ADMM) is applied to solve the whole optimization problem. 
 
 For details of the algorithm and implementation, see [1], and if you are interested in this direction of research you can check
 out our follow up work in [2].
